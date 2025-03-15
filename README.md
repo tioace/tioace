@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Nick.
 
 - 🔭 Hoje eu estudo para o back-end. 
-- 🌱 Estudando: Java, Python e C.
+- 🌱 Estudando: Java e C.
 - 😄 Pronomes: ele/dele
 
 <div align="left">
